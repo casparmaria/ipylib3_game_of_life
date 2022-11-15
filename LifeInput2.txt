@@ -1,0 +1,11 @@
+50
+13
+         
+         
+ xx   xx 
+ x x x x 
+ x x x x 
+   x x   
+  xx xx  
+  xx xx  
+         
